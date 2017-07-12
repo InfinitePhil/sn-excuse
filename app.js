@@ -1,3 +1,13 @@
+// Dependencies
+var bodyParser = require('body-parser');
+var express = require('express');
+
+// Calling the Express module
+var app = express();
+
+// create application/json parser
+var jsonParser = bodyParser.json()
+
 // POST /excuse gets JSON bodies
 app.post('/excuse', jsonParser, function (req, res) {
 
