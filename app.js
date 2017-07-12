@@ -29,9 +29,8 @@ app.post('/excuse', jsonParser, function (req, res) {
 	var message = "ServiceNow is experiencing" + delaytype + " " + delay_timeframe + " " + problem + ". " + excuse + ".";
 
 	res.json({
-		message:'`${message}`',
-		color: 'red',
-		message_format: 'text'
+		message: '${message}',
+		color: 'red'
 	});
 });
 
