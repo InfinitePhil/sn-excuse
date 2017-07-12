@@ -11,7 +11,7 @@ var jsonParser = bodyParser.json()
 // POST /excuse gets JSON bodies
 app.post('/excuse', jsonParser, function (req, res) {
 
-	var delaytypes = ['minor', 'moderate', 'major', 'severe', 'extreme', 'minor but inconvenient', 'otherworldly', 'a metric ton', 'too much', '6.022x10^23 ms of'];
+	var delaytypes = ['minor', 'moderate', 'major', 'severe', 'extreme', 'minor but inconvenient', 'otherworldly', 'a metric ton of', 'too much', '6.022x10^23 ms of'];
 
 	var delay_timeframes = ['delays due to a', 'residual delays due to an earlier'];
 
