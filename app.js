@@ -26,7 +26,7 @@ app.post('/excuse', jsonParser, function (req, res) {
 	var problem = problems[Math.floor(Math.random() * problems.length)];
 	var excuse = excuses[Math.floor(Math.random() * excuses.length)];
 
-	var message = "ServiceNow is experiencing" " " + delaytype + " " + delay_timeframe + " " + problem + ". " + excuse + ".";
+	var message = "ServiceNow is experiencing" + " " + delaytype + " " + delay_timeframe + " " + problem + ". " + excuse + ".";
 
 	res.json({
 		message: `${message}`,
