@@ -22,11 +22,10 @@ app.post('/excuse', jsonParser, function (req, res) {
 
 
 	var delaytype = delaytypes[Math.floor(Math.random() * delaytypes.length)];
-	var delay_timeframe = delay_timeframes[Math.floor(Math.random() * delay_timeframes.length)];
 	var problem = problems[Math.floor(Math.random() * problems.length)];
 	var excuse = excuses[Math.floor(Math.random() * excuses.length)];
 
-	var message = "ServiceNow is experiencing" + " " + delaytype + " " + delay_timeframe + " " + problem + ". " + excuse + ".";
+	var message = "ServiceNow is experiencing" + " " + delaytype + " " + "due to a" + " " + problem + ". " + excuse + ".";
 
 	res.json({
 		message: `${message}`,
