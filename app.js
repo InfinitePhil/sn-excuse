@@ -30,7 +30,7 @@ app.post('/excuse', jsonParser, function (req, res) {
 
 	res.json({
 		message: `${message}`,
-		color: 'grey'
+		color: 'gray'
 	});
 });
 
