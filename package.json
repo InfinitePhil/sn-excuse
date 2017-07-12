@@ -1,0 +1,14 @@
+{
+  "name": "sn-excuse",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "description": ""
+}
