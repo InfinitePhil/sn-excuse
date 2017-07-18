@@ -138,7 +138,7 @@ var excuses = ['We apologize for the inconvenience',
 'Call T2 CLA, I\'m sure they will answer this time…',
 'What\'s that you say? You are on a call and it took 30 seconds to load a new contact? Maybe you would be nicer if you had to remember as many tickets as we do',
 '*soft whirring*',
-'Contact HR if you feel this is that sort of situation..'
+'Contact HR if you feel this is that sort of situation..',
 'Have you tried putting the server in a bag of rice overnight? That usually helps'
 ];
 
