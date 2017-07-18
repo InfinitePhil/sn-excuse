@@ -20,8 +20,8 @@ app.post('/excuse', jsonParser, function (req, res) {
 	'otherworldly',
 	'a metric ton of',
 	'too much',
-	'6.022x10^23 ms of'
-	'the usual amount of'
+	'6.022x10^23 ms of',
+	'the usual amount of',
 	'(allthethings) all the'
 ];
 
