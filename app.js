@@ -94,7 +94,8 @@ var problems = ['bout of Mutually Assured Influenza',
 'infestation of evil nano robots',
 'salt circle surrounding the server being broken',
 'one of the ritual candles going out in the server room',
-'an abundance of reports of users connecting to wireless via UofM-Guest'
+'an abundance of reports of users connecting to wireless via UofM-Guest',
+'someone forgetting they are on work'
 ];
 
 //41 Excuses
@@ -136,10 +137,12 @@ var excuses = ['We apologize for the inconvenience',
 'Have you tried turning it off and on again?',
 'Have you tried calling technology help',
 'Call T2 CLA, I\'m sure they will answer this time…',
-'What\'s that you say? You are on a call and it took 30 seconds to load a new contact? Maybe you would be nicer if you had to remember as many tickets as we do',
 '*soft whirring*',
-'Contact HR if you feel this is that sort of situation..',
-'Have you tried putting the server in a bag of rice overnight? That usually helps'
+'Have you tried putting the server in a bag of rice overnight? That usually helps',
+'Go find Lary, he has chocolate',
+'Excuse Transaction processing 45 seconds..',
+'We were all watching Game of Thrones'	      
+	       
 ];
 
 
