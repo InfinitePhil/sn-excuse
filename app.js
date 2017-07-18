@@ -163,7 +163,7 @@ var problemsLength = problems.length
 var delaytypesLength = delaytypes.length
 
 res.json({
-	message: `${message}`,
+	message: '(wondering) This is an emoji test',
 	message_format: 'text',
 	color: 'gray'
 });
