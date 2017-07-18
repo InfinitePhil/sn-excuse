@@ -158,6 +158,7 @@ var delaytypesLength = delaytypes.length
 
 res.json({
 	message: `${message}`,
+	message_format: 'text',
 	color: 'gray'
 });
 });
