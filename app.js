@@ -101,7 +101,9 @@ var problems = ['bout of Mutually Assured Influenza',
 'a ritual candle going out in the server room',
 'a lot of reports of users connecting to wireless via UofM-Guest',
 'someone forgetting they are on work',
-'UW River Falls IT comming back for Paul'
+'UW River Falls IT comming back for Paul',
+'the server accidentally drowning itself in a pool',
+'Bernie Gulacheck saying hi to Coffman 101 staff'
 ];
 
 //41 Excuses
@@ -147,7 +149,10 @@ var excuses = ['We apologize for the inconvenience.',
 'Have you tried putting the server in a bag of rice overnight? That usually helps.',
 'Go find Lary, he has chocolate.',
 'Excuse Transaction processing 45 seconds...',
-'We were all watching Game of Thrones.'	      
+'We were all watching Game of Thrones.',
+'Paul and Anika probably broke it ;)',
+'Go to Wallys with Tessa and Phil and wait this out...',
+'At least youre not in Wisconsin'
 	       
 ];
 
