@@ -103,10 +103,10 @@ var problems = ['bout of Mutually Assured Influenza',
 'UW River Falls IT comming back for Paul',
 'the server accidentally drowning itself in a pool',
 'Bernie Gulacheck saying hi to Coffman 101 staff',
-'A midlife crisis',
-'A wave of info services calls',
-'A blue screen of death that turned out to be green. We are colorblind',
-'large flock of party parrots (parrot)(parrot)(parrot)(parrot)(parrot)(parrot) nesting in the server'
+'a midlife crisis',
+'a wave of info services calls',
+'a blue screen of death that turned out to be green. We are colorblind',
+'a large flock of party parrots (parrot)(parrot)(parrot)(parrot)(parrot)(parrot) nesting in the server'
 ];
 
 //41 Excuses
