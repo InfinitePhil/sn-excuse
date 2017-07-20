@@ -28,7 +28,7 @@ app.post('/excuse', jsonParser, function (req, res) {
 var delay_timeframes = ['delays due to a',
 'residual delays due to an earlier'];
 
-//69 Problems
+//78 Problems
 var problems = ['bout of Mutually Assured Influenza',
 'an unexpected return of a ticket that completed in 2013',
 'a visit from Frosty the server-eating ice golem',
@@ -109,7 +109,7 @@ var problems = ['bout of Mutually Assured Influenza',
 'a large flock of party parrots (parrot)(parrot)(parrot)(parrot)(parrot)(parrot) nesting in the server'
 ];
 
-//41 Excuses
+//45 Excuses
 var excuses = ['We apologize for the inconvenience.',
 'We actually don\'t really feel like apologizing for this one.  Maybe you should apologize to us for once.',
 'We hope you have snowshoes', 'We could recommend just walking your ticket down to zone yourself.',
