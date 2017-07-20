@@ -43,7 +43,7 @@ var problems = ['bout of Mutually Assured Influenza',
 'a pack of rodents of mostly average size',
 'the rainbow wheel of death',
 'a Windows XP Blue Screen of Death',
-'the death of ALL+',
+'the imminent death of ALL+',
 'a ton of quantum relocation errors',
 'a total failure of spatial reasoning involving backpacks',
 'a group of CDES students who got lost in the Data Center',
@@ -52,8 +52,7 @@ var problems = ['bout of Mutually Assured Influenza',
 'a lack of RAM being downloaded', 
 'just not caring enough about IT@UMN',
 'a case of unforeseen regularly scheduled creating of tickets',
-'an instance of a user calling an Internet ID, their X.500',
-'a failed $650m Emoji experiment', 
+'an instance of a user calling an Internet ID, their X.500', 
 'instance of weather of literally any kind',
 'a spontaneous particle vibration',
 'a series of gargantuan phase shift shortages',
@@ -103,7 +102,11 @@ var problems = ['bout of Mutually Assured Influenza',
 'someone forgetting they are on work',
 'UW River Falls IT comming back for Paul',
 'the server accidentally drowning itself in a pool',
-'Bernie Gulacheck saying hi to Coffman 101 staff'
+'Bernie Gulacheck saying hi to Coffman 101 staff',
+'A midlife crisis',
+'A wave of info services calls',
+'A blue screen of death that turned out to be green. We are colorblind',
+'large flock of party parrots (parrot)(parrot)(parrot)(parrot)(parrot)(parrot) nesting in the server'
 ];
 
 //41 Excuses
@@ -113,7 +116,6 @@ var excuses = ['We apologize for the inconvenience.',
 'We are happy to provide a rich source of excuses for the working folk of OIT.',
 'We felt a bit bad just blaming \"RESS\" again.',
 'How was your expirence with IT?!',
-'We wish All+ were here to make it all better.',
 'We wish we could provide more details, but the wheel of excuses is also broken.',
 'We did not see the sign. It did not open up our eyes, we did not see the sign.',
 'We suggest maybe cleaning your keyboard while you wait.  Spruce the place up a bit for once.',
@@ -152,8 +154,7 @@ var excuses = ['We apologize for the inconvenience.',
 'We were all watching Game of Thrones.',
 'Paul and Anika probably broke it ;)',
 'Go to Wallys with Tessa and Phil and wait this out...',
-'At least youre not in Wisconsin'
-	       
+'At least you\'re not in Wisconsin'	       
 ];
 
 
