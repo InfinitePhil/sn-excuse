@@ -16,7 +16,7 @@ app.post('/excuse', jsonParser, function (req, res) {
 	'major',
 	'severe',
 	'extreme',
-	'minor but inconvenient',
+	'minor, but inconvenient,',
 	'otherworldly',
 	'a metric ton of',
 	'too much',
