@@ -29,7 +29,7 @@ var delay_timeframes = ['delays due to a',
 'residual delays due to an earlier'];
 
 //78 Problems
-var problems = ['bout of Mutually Assured Influenza',
+var problems = [
 'an unexpected return of a ticket that completed in 2013',
 'a visit from Frosty the server-eating ice golem',
 'a lack of caring enough :(',
