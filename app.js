@@ -149,7 +149,7 @@ var delaytype = delaytypes[Math.floor(Math.random() * delaytypes.length)];
 var problem = problems[Math.floor(Math.random() * problems.length)];
 var excuse = excuses[Math.floor(Math.random() * excuses.length)];
 
-var message = "The WBOB Data Center is experiencing" + " " + delaytype + " " + "lag due to " + problem + ". " + excuse;
+var message = "The WBOB Data Center is experiencing" + " " + delaytype + " " + "power failure due to " + problem + ". " + excuse;
 
 var excusesLength = excuses.length
 var problemsLength = problems.length
