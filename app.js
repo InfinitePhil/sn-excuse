@@ -93,6 +93,7 @@ var problems = [
 'Bernie Gulacheck saying hi to Coffman 101 staff',
 'a midlife crisis',
 'a wave of info services calls',
+'getting one of own IPs on a spam block list',
 'a blue screen of death that turned out to be green. We are colorblind',
 'a large flock of party parrots (parrot)(parrot)(parrot)(parrot)(parrot)(parrot) nesting in the server'
 ];
